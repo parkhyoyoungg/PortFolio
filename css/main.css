@@ -1665,7 +1665,7 @@ input, select, textarea {
 			}
 
 			.main.style3.secondary {
-				background: #f5f6f7;
+				background: #6c82ba;
 			}
 
 		.main.dark {
@@ -1845,7 +1845,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../images/my3.jpg");
+		background: url("images/overlay.png"), url("../images/my03.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -1877,7 +1877,7 @@ input, select, textarea {
 	}
 
 	#resume> .content> div> div{
-		background-color: #f5f6f7;
+		background-color: #6c82ba;
 		padding: 1.5em;
 		margin-bottom: 1.5em;
 		border-radius: 1em;
@@ -1890,7 +1890,7 @@ input, select, textarea {
 
 	#resume .content span{
 		font-size: 12px;
-		color: #6c82ba;
+		color: #eeeeee;
 		font-weight: bold;
 	}
 
