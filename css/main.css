@@ -621,7 +621,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #ffffff;
+		background: #ced5e9;
 		color: #39454b;
 		padding: 2em;
 	}
@@ -1665,7 +1665,7 @@ input, select, textarea {
 			}
 
 			.main.style3.secondary {
-				background: #ced5e9;/*#6c82ba;*/
+				background: #fff;/*#6c82ba;*/
 			}
 
 		.main.dark {
@@ -1795,10 +1795,11 @@ input, select, textarea {
 		margin: 0;
 		line-height: 1em;
 		padding: 1.5em;
-		background: #39454b;
-		color: rgba(185, 186, 187, 0.5);
+		background:url(../images/sea01.jpg)repeat center top;
+		color: #fff;
 		overflow: hidden;
 	}
+	#footer img{display: block; width: 100%;}
 
 		#footer > * {
 			margin-bottom: 0;
@@ -1889,7 +1890,7 @@ input, select, textarea {
 	}
 
 	#resume .content span{
-		font-size: 12px;
+		font-size: 17px;
 		color: #6c82ba;
 		font-weight: bold;
 	}
