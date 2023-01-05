@@ -1665,7 +1665,7 @@ input, select, textarea {
 			}
 
 			.main.style3.secondary {
-				background: #6c82ba;
+				background: #ced5e9;/*#6c82ba;*/
 			}
 
 		.main.dark {
@@ -1877,7 +1877,7 @@ input, select, textarea {
 	}
 
 	#resume> .content> div> div{
-		background-color: #6c82ba;
+		background-color: #ced5e9; /*#6c82ba;*/
 		padding: 1.5em;
 		margin-bottom: 1.5em;
 		border-radius: 1em;
@@ -1890,7 +1890,7 @@ input, select, textarea {
 
 	#resume .content span{
 		font-size: 12px;
-		color: #eeeeee;
+		color: #6c82ba;
 		font-weight: bold;
 	}
 
@@ -2013,3 +2013,5 @@ input, select, textarea {
 			color: #6c82ba;
 			padding: 1em 0 0;
 		}
+
+		.texttext{font-size: 15px;}
